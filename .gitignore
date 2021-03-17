@@ -3,3 +3,4 @@
 data/MixADA-data/*
 *.pyc
 runs/*
+data/AttackAssist*/*
